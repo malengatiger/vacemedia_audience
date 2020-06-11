@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "690644139186",
+    "firebase_url": "https://vacemedia.firebaseio.com",
+    "project_id": "vacemedia",
+    "storage_bucket": "vacemedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690644139186:android:64bcf593178099c3dcddab",
+        "android_client_info": {
+          "package_name": "com.vacemedia.audience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690644139186-rbqppd7e91r0aqnvrcvhljsditk78d55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWKOUO2AoDx5D68AKQ_dRMohLCAjESSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690644139186-rbqppd7e91r0aqnvrcvhljsditk78d55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690644139186:android:9f9f3a55f5386740dcddab",
+        "android_client_info": {
+          "package_name": "com.vacemedia.broadcaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690644139186-rbqppd7e91r0aqnvrcvhljsditk78d55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWKOUO2AoDx5D68AKQ_dRMohLCAjESSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690644139186-rbqppd7e91r0aqnvrcvhljsditk78d55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
