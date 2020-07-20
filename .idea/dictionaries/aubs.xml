@@ -2,7 +2,10 @@
   <dictionary name="aubs">
     <words>
       <w>firestore</w>
+      <w>liveshow</w>
+      <w>liveshows</w>
       <w>vace</w>
+      <w>vacemedia</w>
     </words>
   </dictionary>
 </component>
